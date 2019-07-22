@@ -12,6 +12,6 @@
 6. 选择模块
 7. 自动在打开的编辑器光标处插入cdn链接
 
-![](./screenshort/vsc-staticfile-cdn.gif)
+![](https://github.com/qhx0807/vscode-staticfile-cdn/raw/master/screenshort/vsc-staticfile-cdn.gif)
 
 **Enjoy!**
