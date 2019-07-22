@@ -2,7 +2,10 @@
 	"name": "staticfile-cdn",
 	"displayName": "Staticfile CDN",
 	"description": "Staticfile CDN vscode extension",
-	"version": "0.0.1",
+	"version": "0.0.2",
+	"publisher": "qhx0807",
+	"license": "MIT",
+	"icon": "icon.png",
 	"engines": {
 		"vscode": "^1.36.0"
 	},
@@ -23,6 +26,10 @@
 	},
 	"scripts": {
 		"test": "node ./test/runTest.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/qhx0807/vscode-staticfile-cdn"
 	},
 	"devDependencies": {
 		"@types/glob": "^7.1.1",
