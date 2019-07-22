@@ -12,6 +12,6 @@
 6. 选择模块
 7. 自动在打开的编辑器光标处插入cdn链接
 
-![](http://cdn.cqyyy.cn/pic/20190722113926.gif)
+![](./screenshort/vsc-staticfile-cdn.gif)
 
 **Enjoy!**
